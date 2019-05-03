@@ -1,0 +1,16 @@
+{
+    "users":[
+        {
+            "id":"12JJDSDS",
+            "first_name": "Dakshina",
+            "last_name": "Wijesuriya",
+            "email": "me@dakshinasd.com"
+        },
+        {
+            "id":"892JDSDS",
+            "first_name": "Akila",
+            "last_name": "Dinushka",
+            "email": "akila@gmail.com"
+        }
+    ]
+}
