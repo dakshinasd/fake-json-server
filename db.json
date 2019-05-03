@@ -4,13 +4,13 @@
             "id":"12JJDSDS",
             "first_name": "Dakshina",
             "last_name": "Wijesuriya",
-            "email": "me@dakshinasd.com"
+            "email": "me@example.com"
         },
         {
             "id":"892JDSDS",
             "first_name": "Akila",
             "last_name": "Dinushka",
-            "email": "akila@gmail.com"
+            "email": "akila@example.com"
         }
     ]
 }
