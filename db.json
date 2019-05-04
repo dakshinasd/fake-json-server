@@ -12,5 +12,43 @@
             "last_name": "Dinushka",
             "email": "akila@example.com"
         }
+    ],
+
+    "shoppingItems": [
+        {
+            "id": "903SJ",
+            "title": "Robijn Wasmiddel klein & krachtig color",
+            "description": "Robijn klein & krachtig wasmiddel verrijkt met careserum houdt kleding lang mooi",
+            "price":7.99,
+            "image":"https://static.ah.nl/image-optimization/static/product/AHI_434d503130353233333835_1_LowRes_JPG.JPG?options=399,q85"
+        },
+        {
+            "id": "8KSDKK",
+            "title": "AH Snoepgroente tomaat",
+            "description": "Deze fris en sappige cherrytomaatjes zijn onweerstaanbaar zoet, je blijft er van snoepen. Ideaal als gezonde snack voor thuis, op school of onderweg.",
+            "price": 2.29,
+            "image":"https://static.ah.nl/image-optimization/static/product/AHI_434d50303635333239_7_LowRes_JPG.JPG?options=399,q85"
+        },
+        {
+            "id": "IOW90",
+            "title": "AH Allerhande kookboek",
+            "description": "Nieuw! Het Allerhande kookboek Vol Smaak. Een prachtig boek met 135 recepten vol verse ingredienten, productkennis en leerzame kooktechnieken.",
+            "price": 8.99,
+            "image":"https://static.ah.nl/image-optimization/static/product/AHI_43545237303536353036_1_LowRes_JPG.JPG?options=399,q85"
+        },
+        {
+            "id": "DHW00",
+            "title": "La Tulipe Rosé",
+            "description": "Prachtige bordeaux-rosé van 100% merlotdruiven, waarbij alleen de eerste ‘jus’, het meest verse frisse sap van de rijpe druiven, wordt gebruikt.",
+            "price": 5.99,
+            "image":"https://static.ah.nl/image-optimization/static/product/AHI_434d50303634363839_5_LowRes_JPG.JPG?options=399,q85"
+        },
+        {
+            "id": "HJ343",
+            "title": "Ola IJs raket",
+            "description": "De frisse combinatie van ananas, framboos en sinaasappel verveelt nooit.",
+            "price": 1.95,
+            "image":"https://static.ah.nl/image-optimization/static/product/AHI_434d50323131363732_2_LowRes_JPG.JPG?options=399,q85"
+        }
     ]
 }
