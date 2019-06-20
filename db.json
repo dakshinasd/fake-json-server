@@ -13,6 +13,44 @@
             "email": "akila@example.com"
         }
     ],
+    
+    "electronics": [
+        {
+            "id": "001",
+            "title": "WD My Cloud EX2 Ultra 2-Bay NAS (20TB)",
+            "description": "With space to keep virtually everything, the My Cloud Pro Series NAS offers your creative team the network storage to edit, save and share production files from anywhere with an internet connection. Compatible with both PC and Mac® computers, you’re able to keep your media protected and organized in one place to streamline your creative workflow.",
+            "price": "1329",
+            "image": "https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/221384-L-LO.jpg"
+        },
+        {
+            "id": "002",
+            "title": "Kobo Glo HD 6 eReader (Black)",
+            "description": "This easy-to-use eReader is the perfect complement to the reading experience you already know and love! Enjoy added comfort, convenience and customization with Kobo Glo HD. With the clearest, most book-like 6” HD E Ink touchscreen that reads just like a printed page, you’ll never want to put it down.",
+            "price": "99",
+            "image": "https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/243777-L-LO.jpg"
+        },
+        {
+            "id": "003",
+            "title": "Bose Noise-Masking Sleepbuds",
+            "description": "Bose noise-masking sleepbuds™ are designed for sleep. They don’t stream music but instead use pre-loaded, soothing masking sounds to cover up unwanted nighttime noises so you can get to sleep and stay asleep. With three eartip size options, Bose sleepbuds™ give you an extremely comfortable fit and stay in place — even if you sleep on your side. The rechargeable batteries provide up to 16 hours of use. Plus, the convenient charging/storage case lets you recharge at any time and protects your sleepbuds™ when they’re not in use. With the Bose Sleep app, you can customize your experience with personal settings. Choose which soothing sound you want to hear, how long it plays, and its volume. You can even set wake-up alarms that won’t disturb anyone else.",
+            "price": "379",
+            "image": "https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/256350-L-LO.jpg"
+        },
+        {
+            "id": "004",
+            "title": "WD My Cloud Pro PR2100 2-Bay NAS (12TB)",
+            "description": "With space to keep virtually everything, the My Cloud Pro Series NAS offers your creative team the network storage to edit, save and share production files from anywhere with an internet connection. Compatible with both PC and Mac® computers, you’re able to keep your media protected and organized in one place to streamline your creative workflow.",
+            "price": "1429",
+            "image": "https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/183155-L-LO.jpg"
+        },
+        {
+            "id": "005",
+            "title": "Samsung Series 7 RU7100 75 4K UHD LED TV",
+            "description": "Control all of your compatible devices and access things like Netflix, YouTube, Xbox or a SoundBar using one universal TV remote.",
+            "price": "1995",
+            "image": "https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/280992-L-LO.jpg"
+        }
+    ],
 
     "shoppingItems": [
         {
