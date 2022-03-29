@@ -1,118 +1,116 @@
 {
-    "users":[
-        {
-            "id":"12JJDSDS",
-            "first_name": "Dakshina",
-            "last_name": "Wijesuriya",
-            "email": "me@example.com"
-        },
-        {
-            "id":"892JDSDS",
-            "first_name": "Akila",
-            "last_name": "Dinushka",
-            "email": "akila@example.com"
-        }
-    ],
-    
-    "electronics": [
-        {
-            "id": "001",
-            "title": "WD My Cloud EX2 Ultra 2-Bay NAS (20TB)",
-            "description": "With space to keep virtually everything, the My Cloud Pro Series NAS offers your creative team the network storage to edit, save and share production files from anywhere with an internet connection. Compatible with both PC and Mac® computers, you’re able to keep your media protected and organized in one place to streamline your creative workflow.",
-            "price": "1329.12",
-            "image": "https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/221384-L-LO.jpg"
-        },
-        {
-            "id": "002",
-            "title": "Kobo Glo HD 6 eReader (Black)",
-            "description": "This easy-to-use eReader is the perfect complement to the reading experience you already know and love! Enjoy added comfort, convenience and customization with Kobo Glo HD. With the clearest, most book-like 6” HD E Ink touchscreen that reads just like a printed page, you’ll never want to put it down.",
-            "price": "99.00",
-            "image": "https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/243777-L-LO.jpg"
-        },
-        {
-            "id": "003",
-            "title": "Bose Noise-Masking Sleepbuds",
-            "description": "Bose noise-masking sleepbuds™ are designed for sleep. They don’t stream music but instead use pre-loaded, soothing masking sounds to cover up unwanted nighttime noises so you can get to sleep and stay asleep. With three eartip size options, Bose sleepbuds™ give you an extremely comfortable fit and stay in place — even if you sleep on your side. The rechargeable batteries provide up to 16 hours of use. Plus, the convenient charging/storage case lets you recharge at any time and protects your sleepbuds™ when they’re not in use. With the Bose Sleep app, you can customize your experience with personal settings. Choose which soothing sound you want to hear, how long it plays, and its volume. You can even set wake-up alarms that won’t disturb anyone else.",
-            "price": "379.25",
-            "image": "https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/256350-L-LO.jpg"
-        },
-        {
-            "id": "004",
-            "title": "WD My Cloud Pro PR2100 2-Bay NAS (12TB)",
-            "description": "With space to keep virtually everything, the My Cloud Pro Series NAS offers your creative team the network storage to edit, save and share production files from anywhere with an internet connection. Compatible with both PC and Mac® computers, you’re able to keep your media protected and organized in one place to streamline your creative workflow.",
-            "price": "1429.99",
-            "image": "https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/183155-L-LO.jpg"
-        },
-        {
-            "id": "005",
-            "title": "Samsung Series 7 RU7100 75 4K UHD LED TV",
-            "description": "Control all of your compatible devices and access things like Netflix, YouTube, Xbox or a SoundBar using one universal TV remote.",
-            "price": "1995.99",
-            "image": "https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/280992-L-LO.jpg"
-        }
-    ],
-
-    "shoppingItems": [
-        {
-            "id": "903SJ",
-            "title": "Robijn Wasmiddel klein & krachtig color",
-            "description": "Robijn klein & krachtig wasmiddel verrijkt met careserum houdt kleding lang mooi",
-            "price":7.99,
-            "image":"https://static.ah.nl/image-optimization/static/product/AHI_434d503130353233333835_1_LowRes_JPG.JPG?options=399,q85"
-        },
-        {
-            "id": "8KSDKK",
-            "title": "AH Snoepgroente tomaat",
-            "description": "Deze fris en sappige cherrytomaatjes zijn onweerstaanbaar zoet, je blijft er van snoepen. Ideaal als gezonde snack voor thuis, op school of onderweg.",
-            "price": 2.29,
-            "image":"https://static.ah.nl/image-optimization/static/product/AHI_434d50303635333239_7_LowRes_JPG.JPG?options=399,q85"
-        },
-        {
-            "id": "IOW90",
-            "title": "AH Allerhande kookboek",
-            "description": "Nieuw! Het Allerhande kookboek Vol Smaak. Een prachtig boek met 135 recepten vol verse ingredienten, productkennis en leerzame kooktechnieken.",
-            "price": 8.99,
-            "image":"https://static.ah.nl/image-optimization/static/product/AHI_43545237303536353036_1_LowRes_JPG.JPG?options=399,q85"
-        },
-        {
-            "id": "DHW00",
-            "title": "La Tulipe Rosé",
-            "description": "Prachtige bordeaux-rosé van 100% merlotdruiven, waarbij alleen de eerste ‘jus’, het meest verse frisse sap van de rijpe druiven, wordt gebruikt.",
-            "price": 5.99,
-            "image":"https://static.ah.nl/image-optimization/static/product/AHI_434d50303634363839_5_LowRes_JPG.JPG?options=399,q85"
-        },
-        {
-            "id": "HJ343",
-            "title": "Ola IJs raket",
-            "description": "De frisse combinatie van ananas, framboos en sinaasappel verveelt nooit.",
-            "price": 1.95,
-            "image":"https://static.ah.nl/image-optimization/static/product/AHI_434d50323131363732_2_LowRes_JPG.JPG?options=399,q85"
-        }
-    ],
-    "themes": {
-        "base": {
-        configuration: {
-    colors: {
-      '--color-text-base': '#fff',
-      '--color-fill': '#f26457',
-      '--color-nav-bg': '#f26457',
-    },
-  },
-        },
-        "im": {
-        tenantName: 'Im',
-  configuration: {
-    path: 'http://hostname/tenant/im',
-    colors: {
-      '--color-text-base': '#fff',
-      '--color-fill': '#45858c',
-      '--color-nav-bg': '#45858c',
-    },
-    images: {
-      mainLogo: 'images/main-logo.png',
-      favIcon: 'images/fav.png',
-    },
-  },
-        }
-    }
+   "users":[
+      {
+         "id":"12JJDSDS",
+         "first_name":"Dakshina",
+         "last_name":"Wijesuriya",
+         "email":"me@example.com"
+      },
+      {
+         "id":"892JDSDS",
+         "first_name":"Akila",
+         "last_name":"Dinushka",
+         "email":"akila@example.com"
+      }
+   ],
+   "electronics":[
+      {
+         "id":"001",
+         "title":"WD My Cloud EX2 Ultra 2-Bay NAS (20TB)",
+         "description":"With space to keep virtually everything, the My Cloud Pro Series NAS offers your creative team the network storage to edit, save and share production files from anywhere with an internet connection. Compatible with both PC and Mac® computers, you’re able to keep your media protected and organized in one place to streamline your creative workflow.",
+         "price":"1329.12",
+         "image":"https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/221384-L-LO.jpg"
+      },
+      {
+         "id":"002",
+         "title":"Kobo Glo HD 6 eReader (Black)",
+         "description":"This easy-to-use eReader is the perfect complement to the reading experience you already know and love! Enjoy added comfort, convenience and customization with Kobo Glo HD. With the clearest, most book-like 6” HD E Ink touchscreen that reads just like a printed page, you’ll never want to put it down.",
+         "price":"99.00",
+         "image":"https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/243777-L-LO.jpg"
+      },
+      {
+         "id":"003",
+         "title":"Bose Noise-Masking Sleepbuds",
+         "description":"Bose noise-masking sleepbuds™ are designed for sleep. They don’t stream music but instead use pre-loaded, soothing masking sounds to cover up unwanted nighttime noises so you can get to sleep and stay asleep. With three eartip size options, Bose sleepbuds™ give you an extremely comfortable fit and stay in place — even if you sleep on your side. The rechargeable batteries provide up to 16 hours of use. Plus, the convenient charging/storage case lets you recharge at any time and protects your sleepbuds™ when they’re not in use. With the Bose Sleep app, you can customize your experience with personal settings. Choose which soothing sound you want to hear, how long it plays, and its volume. You can even set wake-up alarms that won’t disturb anyone else.",
+         "price":"379.25",
+         "image":"https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/256350-L-LO.jpg"
+      },
+      {
+         "id":"004",
+         "title":"WD My Cloud Pro PR2100 2-Bay NAS (12TB)",
+         "description":"With space to keep virtually everything, the My Cloud Pro Series NAS offers your creative team the network storage to edit, save and share production files from anywhere with an internet connection. Compatible with both PC and Mac® computers, you’re able to keep your media protected and organized in one place to streamline your creative workflow.",
+         "price":"1429.99",
+         "image":"https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/183155-L-LO.jpg"
+      },
+      {
+         "id":"005",
+         "title":"Samsung Series 7 RU7100 75 4K UHD LED TV",
+         "description":"Control all of your compatible devices and access things like Netflix, YouTube, Xbox or a SoundBar using one universal TV remote.",
+         "price":"1995.99",
+         "image":"https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/280992-L-LO.jpg"
+      }
+   ],
+   "shoppingItems":[
+      {
+         "id":"903SJ",
+         "title":"Robijn Wasmiddel klein & krachtig color",
+         "description":"Robijn klein & krachtig wasmiddel verrijkt met careserum houdt kleding lang mooi",
+         "price":7.99,
+         "image":"https://static.ah.nl/image-optimization/static/product/AHI_434d503130353233333835_1_LowRes_JPG.JPG?options=399,q85"
+      },
+      {
+         "id":"8KSDKK",
+         "title":"AH Snoepgroente tomaat",
+         "description":"Deze fris en sappige cherrytomaatjes zijn onweerstaanbaar zoet, je blijft er van snoepen. Ideaal als gezonde snack voor thuis, op school of onderweg.",
+         "price":2.29,
+         "image":"https://static.ah.nl/image-optimization/static/product/AHI_434d50303635333239_7_LowRes_JPG.JPG?options=399,q85"
+      },
+      {
+         "id":"IOW90",
+         "title":"AH Allerhande kookboek",
+         "description":"Nieuw! Het Allerhande kookboek Vol Smaak. Een prachtig boek met 135 recepten vol verse ingredienten, productkennis en leerzame kooktechnieken.",
+         "price":8.99,
+         "image":"https://static.ah.nl/image-optimization/static/product/AHI_43545237303536353036_1_LowRes_JPG.JPG?options=399,q85"
+      },
+      {
+         "id":"DHW00",
+         "title":"La Tulipe Rosé",
+         "description":"Prachtige bordeaux-rosé van 100% merlotdruiven, waarbij alleen de eerste ‘jus’, het meest verse frisse sap van de rijpe druiven, wordt gebruikt.",
+         "price":5.99,
+         "image":"https://static.ah.nl/image-optimization/static/product/AHI_434d50303634363839_5_LowRes_JPG.JPG?options=399,q85"
+      },
+      {
+         "id":"HJ343",
+         "title":"Ola IJs raket",
+         "description":"De frisse combinatie van ananas, framboos en sinaasappel verveelt nooit.",
+         "price":1.95,
+         "image":"https://static.ah.nl/image-optimization/static/product/AHI_434d50323131363732_2_LowRes_JPG.JPG?options=399,q85"
+      }
+   ],
+   "themes":{
+      "base":{
+         "configuration":{
+            "colors":{
+               "--color-text-base":"#fff",
+               "--color-fill":"#f26457",
+               "--color-nav-bg":"#f26457"
+            }
+         }
+      },
+      "im":{
+         "tenantName":"Im",
+         "configuration":{
+            "path":"http://hostname/tenant/im",
+            "colors":{
+               "--color-text-base":"#fff",
+               "--color-fill":"#45858c",
+               "--color-nav-bg":"#45858c"
+            },
+            "images":{
+               "mainLogo":"images/main-logo.png",
+               "favIcon":"images/fav.png"
+            }
+         }
+      }
+   }
 }
