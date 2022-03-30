@@ -98,15 +98,31 @@
             }
          }
       },
-      "im":{
-         "tenantName":"Im",
+      "cl1":{
+         "tenantName":"Client 1",
          "configuration":{
-            "path":"http://hostname/tenant/im",
+            "path":"http://hostname/tenant/cl1",
             "colors":{
                "--color-text-base":"#fff",
                "--color-fill":"#45858c",
                "--color-nav-bg":"#45858c",
                "--color-nav-bg-active":"#91B166"
+            },
+            "images":{
+               "mainLogo":"images/main-logo.png",
+               "favIcon":"images/fav.png"
+            }
+         }
+      },
+      "cl2":{
+         "tenantName":"Client 2",
+         "configuration":{
+            "path":"http://hostname/tenant/cl2",
+            "colors":{
+               "--color-text-base":"#fff",
+               "--color-fill":"#45858c",
+               "--color-nav-bg":"#F29199",
+               "--color-nav-bg-active":"#F2AEB4"
             },
             "images":{
                "mainLogo":"images/main-logo.png",
