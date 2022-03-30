@@ -93,7 +93,8 @@
             "colors":{
                "--color-text-base":"#fff",
                "--color-fill":"#f26457",
-               "--color-nav-bg":"#f26457"
+               "--color-nav-bg":"#DD5200",
+               "--color-nav-bg-active":"#E49400"
             }
          }
       },
@@ -104,7 +105,8 @@
             "colors":{
                "--color-text-base":"#fff",
                "--color-fill":"#45858c",
-               "--color-nav-bg":"#45858c"
+               "--color-nav-bg":"#45858c",
+               "--color-nav-bg-active":"#91B166"
             },
             "images":{
                "mainLogo":"images/main-logo.png",
